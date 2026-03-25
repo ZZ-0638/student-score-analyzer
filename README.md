@@ -48,7 +48,7 @@ git clone https://github.com/ZZ-0638/student-score-analyzer.git
 gcc main.c -o score_analyzer
 
 
-### 3. 运行**
+### 3. 运行
 
 执行编译后的可执行文件：
 
