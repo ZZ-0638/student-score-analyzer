@@ -2,7 +2,7 @@
 
 
 
-##### **项目简介**
+## **项目简介**
 
 
 
@@ -10,7 +10,7 @@
 
 
 
-##### **主要功能**
+## **主要功能**
 
 
 
@@ -24,11 +24,11 @@
 
 
 
-##### **技术栈**
+## **技术栈**
 
 
 
-* **语言** ：C（C99 标准）
+* **语言**：C（C99 标准）
 * **开发环境** ：Dev-C++ / Visual Studio / GCC
 * **核心概念** ：结构体、数组、函数模块化、标准输入输出处理
 
@@ -38,21 +38,19 @@
 
 
 
-&#x20;**1. 克隆仓库**
+### 1. 克隆仓库
+```bash
+git clone https://github.com/ZZ-0638/student-score-analyzer.git
 
 
-git clone https://github.com/你的用户名/student-score-analyzer.git
 
 
-
-&#x20;**2. 编译**
-
+**“编译”部分：**
+```markdown
+### 2. 编译
 使用 GCC 编译：
-
-gcc main.c -o score\\\_analyzer
-
-或在 Dev-C++ 中直接打开 `.c` 文件，点击“编译运行”。
-
+```bash
+gcc main.c -o score_analyzer
 
 
 &#x20;**3. 运行**
