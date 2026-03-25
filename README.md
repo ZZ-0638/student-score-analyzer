@@ -39,17 +39,17 @@
 
 
 ### 1. 克隆仓库
-```bash
+
 git clone https://github.com/ZZ-0638/student-score-analyzer.git
 
 
 
 
 **“编译”部分：**
-```markdown
+
 ### 2. 编译
 使用 GCC 编译：
-```bash
+
 gcc main.c -o score_analyzer
 
 
