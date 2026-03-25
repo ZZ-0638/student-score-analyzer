@@ -42,18 +42,13 @@
 
 git clone https://github.com/ZZ-0638/student-score-analyzer.git
 
-
-
-
-**“编译”部分：**
-
 ### 2. 编译
 使用 GCC 编译：
 
 gcc main.c -o score_analyzer
 
 
-&#x20;**3. 运行**
+### 3. 运行**
 
 执行编译后的可执行文件：
 
@@ -62,7 +57,7 @@ gcc main.c -o score_analyzer
 score\\\_analyzer.exe   Windows
 
 
-&#x20;**4. 使用菜单**
+###4. 使用菜单
 
 程序启动后显示主菜单，按数字键选择对应功能：
 
